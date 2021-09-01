@@ -12,7 +12,7 @@ Jump to: [ETHZ](#ethz)
 ## USZ
 
 #### Timelapse of our blabla:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=b_SSrzMBHCA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R6D_3sBN3FM" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
