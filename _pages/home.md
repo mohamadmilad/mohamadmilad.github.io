@@ -54,8 +54,8 @@ We are located at ...,
 We are grateful for funding from ..., [xxx](www.nwo.nl) ([zzz](https://www.usz.ch/en/) and the [aaa](https://www.usz.ch/en/), and from an [yyy](https://www.usz.ch/en/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uzhlogo.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uszlogo.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hgklogo.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uzhlogo.jpg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uszlogo.jpg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hgklogo.jpg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/siaflogo.jpg" style="width: 110px">
 </figure>
