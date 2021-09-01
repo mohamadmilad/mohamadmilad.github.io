@@ -9,7 +9,7 @@ permalink: /pictures/
 Jump to: [ETHZ](#ethz)
 
 
-## Leiden
+## USZ
 
 #### Timelapse of our blabla:
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=izRxfjluXNw" frameborder="0" allowfullscreen></iframe>
