@@ -23,10 +23,10 @@ We are a dynamic research group at the [balbalbla](https://www.usz.ch/en/). Our 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/cytof.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/cytoflab.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/cytoflab.jpg" alt="Slide 2" style="height: 600px"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/umap.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/UMAP.jpg" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
