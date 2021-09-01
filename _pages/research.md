@@ -32,7 +32,7 @@ Macbeth returns to his castle, followed almost immediately by King Duncan. The M
 
 
 **Act IV**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/gate.png){: style="width: 70%; float: center; margin: 10px"}
 
 **VI**
 Three witches tell the Scottish general Macbeth that he will be King of Scotland. Encouraged by his wife, Macbeth kills the king, becomes the new king, and kills more people out of paranoia. Civil war erupts to overthrow Macbeth, resulting in more death.
