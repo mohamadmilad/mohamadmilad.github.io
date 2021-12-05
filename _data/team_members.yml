@@ -1,19 +1,27 @@
 - name: Marie-Charlotte Brüggen
   photo: charlotte.jpg
-  info: Assistant Professor for Clinical Allergy Research, started Oct 2019
+  info: Prof. Brüggen is an Assistant Professor for Clinical Allergology of the University Zurich, sponsored by the Kühne Foundation / CK Care. After a PhD in immunology at the Medical University of Vienna and clinical residency in Dermatology and Allergology/Immunology at the University Hospitals in Vienna and Zurich, she now works as a physician scientist between the University Hospital and the Medical Campus and Hochgebirgsklinik Davos. 
+Her overall interest is to enhance the pathomechanistic understanding and improve diagnostic procedures as well as therapeutic approaches of different allergic (dermatological) diseases, namely atopic dermatitis, severe drug hypersensitivity reactions and adipose tissue immunology.
   email: Marie-Charlotte.Brueggen@usz.ch
   number_educ: 3
   education1: Dermatology and Allergology Resident, Dpt. of Dermatology, USZ
   education2: Postdoctoral Fellow (Dpt. Of Dermatology, USZ, Prof. Dr. Lars French)	Dermatology Resident
   education3: PhD Student (DIAID, Dpt. Of Dermatology, Medical University of Vienna, Prof. Dr. Georg Stingl)
 
+- name: Reihane Ziadlou
+  photo: reihane.jpeg
+  info: Dr. Reihane Ziadlou obtained her PhD degree in the field of Biomedical Engineering in July 2020 from the medical faculty of Basel University and AO research Institute, Davos in Switzerland. Since then, she has started her post-doctoral fellowship at University of Zürich and medicine campus Davos. The main focus of her research is to investigate the immunological function of subcutaneous adipose tissue in skin-based or systemic inflammation by using high-multiplex imaging mass cytometry technology.
+  email: Reihane.Ziadlou@uzh.ch
+
+- name: Danielle Fehr
+  photo: Danielle.jpeg
+  info: Dr. Reihane Ziadlou obtained her PhD degree in the field of Biomedical Engineering in July 2020 from the medical faculty of Basel University and AO research Institute, Davos in Switzerland. Since then, she has started her post-doctoral fellowship at University of Zürich and medicine campus Davos. The main focus of her research is to investigate the immunological function of subcutaneous adipose tissue in skin-based or systemic inflammation by using high-multiplex imaging mass cytometry technology.
+  email: Danielle.Fehr@uzh.ch
+
 - name: M.Milad Ameri
   photo: milad.jpg
   info: bioinformatician, started Apr 2021
-  email: mohamadmilad@gmail.com
-  number_educ: 2
-  education1: M.S.c @unige
-  education2: B.S. @AUT
+  email: Mohammadmilad.ameri@uzh.ch
 
 
 - name: "This could be you !"
