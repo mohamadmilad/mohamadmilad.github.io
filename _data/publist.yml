@@ -17,3 +17,14 @@
     display:  british journal of dermatology
   highlight: 1
   news1:
+
+
+- title: "Benralizumab for severe DRESS in two COVID-19 patients"
+  image:
+  description: This report provides first evidence for the IL-5Rα-blocking antibody benralizumab as a treatment option for severe drug rash with eosinophilia and systemic symptoms not responding to first-line treatment; proteomic serum analyses point toward substantial eosinophil- and T cell–related changes induced by the treatment.
+  authors: Peter Schmid-Grendelmeier, Peter Steiger, Mirjam C Naegeli, Isabel Kolm, Lang Claudia Cécile Valérie, Emanual Maverakis, Marie-Charlotte Brüggen
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33039646/
+    display:  J Allergy Clin Immunol Pract
+  highlight: 0
+  news1:
