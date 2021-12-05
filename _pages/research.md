@@ -8,35 +8,59 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new .......
+**Subcutaneous adipose tissue: an immunologically active organ**
 
-Macbeth becomes King of Scotland but is plagued by feelings of insecurity. He remembers the prophecy that Banquo's descendants will inherit the throne and arranges for Banquo and his son Fleance to be killed. In the darkness, Banquo is murdered, but his son escapes the assassins. At his state banquet that night, Macbeth sees the ghost of Banquo and worries the courtiers with his mad response. Lady Macbeth dismisses the court and unsuccessfully tries to calm her husband. 
+The immunological functions of subcutaneous adipose tissue (SAT) in the context of skin-based or systemic inflammation is poorly investigated. Therefore, a better understanding of the immunological SAT “reservoir” in humans under homeostatic or inflammatory conditions is necessary.
 
+Our studies include a characterization and functional exploration of the *cellular and molecular immune players in SAT*. We use novel methodologies for spatial phenotyping of skin tissue at the single cell level. To investigate the specific antigens and signaling pathways in SAT, we aim to develop a full thickness skin model consisting of SAT, dermis and epidermis for studying cell-cell interactions and molecular mechanisms.
 
-Here are some themes and techniques that we currently work on:
+*Panniculitis* is an ideal model for us to understand the mechansims in SAT inflammation. We are currently investigating the immune cell infiltrates in panniculitis (inflammation of adipose tissue) to gain new insights into its underlying pathomechanisms. A central aspect in exploring this is to understand antigen-presentation in SAT including the type of antigen-presenting cells involved and the nature of antigens presented.
 
-**imaging mass cytometry (IMC).** Macbeth seeks out the witches who say that he will be safe until a local wood, Birnam Wood, marches into battle against him. He also need not fear anyone born of woman (that sounds secure, no loop-holes here). They also prophesy that the Scottish succession will still come from Banquo's son. Macbeth embarks on a reign of terror, slaughtering many, including Macduff's family. Macduff had gone to seek Malcolm (one of Duncan's sons who fled) at the court of the English king. Malcolm is young and unsure of himself, but Macduff, pained with grief, persuades him to lead an army against Macbeth. 
+In terms of *therapeutic targeting of SAT inflammation*, we are currently developing epigenetic switches for programmable control of inflammation in collaboration with Kyoto university.
 
-
-**Act V** Macbeth feels safe in his remote castle at Dunsinane until he is told that Birnam Wood is moving towards him. Malcolm's army is carrying branches from the forest as camouflage for their assault on Macbeth's stronghold. Meanwhile, an overwrought and conscience-ridden Lady Macbeth walks in her sleep and tells her secrets to her doctor. She commits suicide. As the final battle commences, Macbeth hears of Lady Macbeth's suicide and mourns. 
-
-
-
-**Act III**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-In the midst of a losing battle, Macduff challenges Macbeth. Macbeth learns Macduff is the child of a caesarean birth (loophole!), realises he is doomed, and submits to his enemy. Macduff triumphs and brings the head of the traitor Macbeth to Malcolm. Malcolm declares peace and goes to Scone to be crowned king.
+All of the mentioned conditions may be altered in and impacted by obesity. Therefore, modulation of SAT immune responses is a tempting new approach in the future for development of targeted therapies for cutaneous or systemic immune-related diseases.
 
 
-**Act II**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-Macbeth returns to his castle, followed almost immediately by King Duncan. The Macbeths plot together to kill Duncan and wait until everyone is asleep. At the appointed time, Lady Macbeth gives the guards drugged wine so Macbeth can enter and kill the King. He regrets this almost immediately, but his wife reassures him. She leaves the bloody daggers by the dead king just before Macduff, a nobleman, arrives. When Macduff discovers the murder, Macbeth kills the drunken guards in a show of rage and retribution. Duncan's sons, Malcolm and Donalbain, flee, fearing for their own lives; but they are, nevertheless, blamed for the murder. 
+**ATOPIC DERMATITIS (AD)**
+
+*Atopic Dermatitis: Sub-Saharan Africa vs. Central Europe*
+It is already known that the ethnicity plays an important role in the presentation of AD. However, there is a lack of knowledge about possible variations in pathogenesis. In this prospective observational study, we are comparing AD patients and healthy control participants from Zurich and from Moshi, a city in Tanzania. We compare clinical characteristics, immune signatures, barrier proteins, sensitization patterns as well as the nasal, gut and skin microbiome between AD patients and healthy controls in Tanzania and Swizuerland. This project is a collaboration between the University Hospital Zurich and the Regional Dermatology Training Centre in Moshi.
+
+*Atopic Dermatitis and Cardiovascular Diseases*
+In this multicenter project, we want to further investigate the association between AD  and cardiovascular diseases, as the existing evidence is contradictory. We’d like to answer questions such as: Are AD patients at a higher risk for cardiovascular comorbidities? Does the AD severity play a role? How does a possible connection relate to the presence of atopic comorbidities? We therefore analyze data from the ProRaD study (Prospective Longitudinal Observational Research in Atopic Dermatitis), which includes more than 705 AD patients and 80 healthy control participants and perform targeted high-throughput proteomics analyses. 
+
+*Atopic Dermatitis and Food Allergies / Intolerances*
+Many AD patients suffer from concurrent food allergies and even a higher percentage reports food-related exacerbations of their disease. In this project, we want to further explore the potential connection between food sensitization/allergies, food intolerances, nutritional habits and atopic comorbidities in AD patients.
+
+*Prospective Longitudinal Observational Research in Atopic Dermatitis (ProRaD)*
+In ProRAD, a study of CK Care (LINK CK CARE WEBSITE/PRORAD), we investigate the mechanisms underlying the natural course, different disease phenotypes and therapy responsiveness in AD and look for new clinically relevant biomarkers as well as new potential therapeutic targets.
 
 
-**Act IV**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/gate.png){: style="width: 70%; float: center; margin: 10px"}
+**imaging mass cytometry (IMC)**
 
-**VI**
-Three witches tell the Scottish general Macbeth that he will be King of Scotland. Encouraged by his wife, Macbeth kills the king, becomes the new king, and kills more people out of paranoia. Civil war erupts to overthrow Macbeth, resulting in more death.
+Imaging Mass Cytometry (IMC) is a spatial mass spectrometric approach which provide a comprehensive and multiparametric technique to investigate tissue with special and single cell resolution. This high dimensional tissue imaging system allows us to quantify up to 50 markers on single cells simultaneously with precise spatial resolution. In this technique tissue slices are labeled with metal conjugated antibodies and slides are ablate by laser to initiate a clump of particles which transport with inert gas to the mass spec that quantify the presence of each metal tag in a pixel. IMC-based methods could be applied on paraffine embedded tissue therefor a retrospective analysis with known results could be carried out. We utilize IMC technique in order to study skin tissue’s spatial structure and cellular compound.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/skin.jpg){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/IMCoverview.jpeg){: style="width: 70%; float: center; margin: 10px"}
 
-### ... and more.
+
+*Analysis*
+
+One of the crucial points in the system biology and immunology in to explore and exploit information from high dimensional datasets, in order to overcome this challenge, we use different statistical and image analysis tools and pipelines for a better fundamental understanding insights into disease. For pre-processing and single-cell segmentation we use ImcSegmentationPipeline and Dockerized multi-channel image processing framework (Steinbock) developed by Bodenmiller group and it is available on their Github repository. After single-cell generation all further analysis is performed using R bioconductor. 
+
+List for software’s and frameworks that we use to analyze our IMC data:
+
+•	histology topography cytometry analysis toolbox (histoCAT), steinbock, cytomapper and imcRtools all avialabe at  (github.com/BodenmillerGroup).
+
+•	CellProfiler (www.cellprofiler.org) cell image analysis software
+
+•	Ilastik (www.ilastik.org) interactive learning and segmentation toolkit
+
+•	DeepCell (https://github.com/vanvalenlab/deepcell-tf) deep learning library for single-cell analysis of biological images
+
+•	Bioconductor an open source software for bioinformatics (www.bioconductor.org/)
+
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/imcanalyz.jpeg){: style="width: 70%; float: center; margin: 10px"}
+
+
+# ... and more.
