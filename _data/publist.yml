@@ -1,5 +1,5 @@
 - title: "Cutaneous and systemic hyperinflammation drives maculopapular drug exanthema in severely ill COVID-19 patients"
-  image: TBG_SL.png
+  image: covidMDR.png
   description: Coronavirus disease-2019 (COVID-19) has been associated with cutaneous findings, some being the result of drug hypersensitivity reactions such as maculopapular drug rashes (MDR). The aim of this study was to investigate whether COVID-19 may impact the development of the MDR.A systemic cytokine storm may promote activation of Mo/Mac and cytotoxic CD8+ T cells in severe COVID-19 patients, which in turn may impact the development of MDR.
   authors: Yasutaka Mitamura, Daniel Schulz, Saskia Oro, Nick Li, Isabel Kolm, Claudia Lang, Reihane Ziadlou, Ge Tan, Bernd Bodenmiller, Peter Steiger, Angelo Marzano, Nicolas de Prost, Olivier Caudin, Mitchell Levesque, Corinne Stoffel, Peter Schmid-Grendelmeier, Emanual Maverakis, Cezmi A Akdis, Marie-Charlotte Brüggen
   link:
@@ -8,13 +8,12 @@
   highlight: 1
   news2:
 
-- title: "Epidermal Elafin Expression Is an Indicator of Poor Prognosis in Cutaneous Graft-versus-Host Disease"
-  image: Pub_BCl.png
-  description: Graft-versus-host disease (GVHD) is a major complication of allogeneic hematopoietic stem cell transplantation (HCT) and can present in an acute (aGVHD), a chronic lichenoid (clGVHD), and a chronic sclerotic form (csGVHD).
-  authors: Marie-Charlotte Brüggen, Irene Klein, Hildegard Greinix, Wolfgang Bauer, Zoya Kuzmina, Werner Rabitsch, Peter Kalhs, Peter Petzelbauer, Robert Knobler, Georg Stingl, Georg Stary
+- title: "Supportive care in the acute phase of Stevens–Johnson syndrome and toxic epidermal necrolysis: an international, multidisciplinary Delphi-based consensus"
+  image: sjs.jpeg
+  description: Supportive care is the cornerstone of management of adult and paediatric Stevens–Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). However, consensus on the modalities of supportive care is lacking.
+  authors: Brüggen MC, Le ST, Walsh S, Toussi A, de Prost N, Ranki A, Didona B, Colin A, Horváth B, Brezinova E, Milpied B, Moss C, Bodemer C, Meyersburg D, Salavastru C, Tiplica GS, Howard E, Bequignon E, Bouwes Bavinck JN, Newman J, Gueudry J, Nägeli M, Zaghbib K, Pallesen K, Bygum A, Joly P, Wolkenstein P, Chua SL, Le Floch R, Shear NH, Chu CY, Hama N, Abe R, Chung WH, Shiohara T, Ardern-Jones M, Romanelli P, Phillips EJ, Stern RS, Cotliar J, Micheletti RG, Brassard A, Schulz JT, Dodiuk-Gad RP, Dominguez AR, Paller AS, Seminario-Vidal L, Mostaghimi A, Noe MH, Worswick S, Tartar D, Sheridan R, Kaffenberger BH, Shinkai K, Maverakis E, French LE, Ingen-Housz-Oro S.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0022202X15372079
-    display:  Journal of Investigative Dermatology
+    url: https://pubmed.ncbi.nlm.nih.gov/33657677/
+    display:  british journal of dermatology
   highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch)
+  news1:
