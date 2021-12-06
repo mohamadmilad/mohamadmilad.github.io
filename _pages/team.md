@@ -164,11 +164,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, MSc students, MD candidates
-<div class="row">
-
-</div>
-
 
 ## Administrative Support
 <a href="mailto:NNNN">administrativ person name</a> is helping us (and other groups) with administration.
