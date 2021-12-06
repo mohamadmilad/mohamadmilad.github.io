@@ -8,6 +8,8 @@ permalink: /research/
 
 # Research
 
+
+
 **Subcutaneous adipose tissue: an immunologically active organ**
 
 The immunological functions of subcutaneous adipose tissue (SAT) in the context of skin-based or systemic inflammation is poorly investigated. Therefore, a better understanding of the immunological SAT “reservoir” in humans under homeostatic or inflammatory conditions is necessary.
@@ -19,6 +21,7 @@ Our studies include a characterization and functional exploration of the *cellul
 In terms of *therapeutic targeting of SAT inflammation*, we are currently developing epigenetic switches for programmable control of inflammation in collaboration with Kyoto university.
 
 All of the mentioned conditions may be altered in and impacted by obesity. Therefore, modulation of SAT immune responses is a tempting new approach in the future for development of targeted therapies for cutaneous or systemic immune-related diseases.
+
 
 
 **ATOPIC DERMATITIS (AD)**
@@ -35,11 +38,7 @@ Many AD patients suffer from concurrent food allergies and even a higher percent
 *Prospective Longitudinal Observational Research in Atopic Dermatitis (ProRaD)*
 In ProRAD, a study of CK Care (LINK CK CARE WEBSITE/PRORAD), we investigate the mechanisms underlying the natural course, different disease phenotypes and therapy responsiveness in AD and look for new clinically relevant biomarkers as well as new potential therapeutic targets.
 
-# Imaging Mass Cytometry (IMC)
 
-*Imaging Mass Cytometry (IMC)*
-
-***Imaging Mass Cytometry (IMC)***
 
 **Imaging Mass Cytometry (IMC)**
 
