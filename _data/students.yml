@@ -86,16 +86,23 @@
   number_educ: 0
   education1:
   
-  - name: Sabine Greschek
+- name: Sabine Greschek
   photo: rock.jpg
   info: Clinical study team
   email:
   number_educ: 0
   education1:
   
-  - name: Natalie Anasiewicz
+- name: Natalie Anasiewicz
   photo: rock.jpg
   info: Clinical study team
+  email:
+  number_educ: 0
+  education1:
+
+- name: Meike Distler
+  photo: rock.jpg
+  info: PostDocs 
   email:
   number_educ: 0
   education1:
