@@ -35,8 +35,13 @@ Many AD patients suffer from concurrent food allergies and even a higher percent
 *Prospective Longitudinal Observational Research in Atopic Dermatitis (ProRaD)*
 In ProRAD, a study of CK Care (LINK CK CARE WEBSITE/PRORAD), we investigate the mechanisms underlying the natural course, different disease phenotypes and therapy responsiveness in AD and look for new clinically relevant biomarkers as well as new potential therapeutic targets.
 
+# Imaging Mass Cytometry (IMC)
 
-**imaging mass cytometry (IMC)**
+*Imaging Mass Cytometry (IMC)*
+
+***Imaging Mass Cytometry (IMC)***
+
+**Imaging Mass Cytometry (IMC)**
 
 Imaging Mass Cytometry (IMC) is a spatial mass spectrometric approach which provide a comprehensive and multiparametric technique to investigate tissue with special and single cell resolution. This high dimensional tissue imaging system allows us to quantify up to 50 markers on single cells simultaneously with precise spatial resolution. In this technique tissue slices are labeled with metal conjugated antibodies and slides are ablate by laser to initiate a clump of particles which transport with inert gas to the mass spec that quantify the presence of each metal tag in a pixel. IMC-based methods could be applied on paraffine embedded tissue therefor a retrospective analysis with known results could be carried out. We utilize IMC technique in order to study skin tissue’s spatial structure and cellular compound.
 
