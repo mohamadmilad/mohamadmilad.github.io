@@ -63,4 +63,3 @@ List for software’s and frameworks that we use to analyze our IMC data:
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/imcanalyz.jpeg){: style="width: 70%; float: center; margin: 10px"}
 
 
-# ... and more.
