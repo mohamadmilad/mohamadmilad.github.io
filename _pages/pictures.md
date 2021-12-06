@@ -54,7 +54,3 @@ First advertisement.
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/genevagroup.jpeg" width="60%" >
 </figure>
 
-From the group of [blabla](http://www.google.com/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/zurichgroup.jpeg" width="60%">
-</figure>
