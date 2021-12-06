@@ -50,6 +50,12 @@ We are located at ...,
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+**Research**
+- Atopic Dermatitis
+- Drug allergies (DTH)
+- Adipose tissue 
+- IMC
+
 
 We are grateful for funding from ..., [xxx](www.nwo.nl) ([zzz](https://www.usz.ch/en/) and the [aaa](https://www.usz.ch/en/), and from an [yyy](https://www.usz.ch/en/).
 
