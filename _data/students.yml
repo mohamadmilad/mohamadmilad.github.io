@@ -79,3 +79,23 @@
   number_educ: 0
   education1:
 
+- name: Stephan Traidl
+  photo: rock.jpg
+  info: Visiting fellows
+  email:
+  number_educ: 0
+  education1:
+  
+  - name: Sabine Greschek
+  photo: rock.jpg
+  info: Clinical study team
+  email:
+  number_educ: 0
+  education1:
+  
+  - name: Natalie Anasiewicz
+  photo: rock.jpg
+  info: Clinical study team
+  email:
+  number_educ: 0
+  education1:
