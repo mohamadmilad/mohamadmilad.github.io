@@ -7,22 +7,24 @@ Her overall interest is to enhance the pathomechanistic understanding and improv
   education1: Dermatology and Allergology Resident, Dpt. of Dermatology, USZ
   education2: Postdoctoral Fellow (Dpt. Of Dermatology, USZ, Prof. Dr. Lars French)	Dermatology Resident
   education3: PhD Student (DIAID, Dpt. Of Dermatology, Medical University of Vienna, Prof. Dr. Georg Stingl)
-
+  
 - name: Reihane Ziadlou
   photo: reihane.jpeg
   info: Dr. Reihane Ziadlou obtained her PhD degree in the field of Biomedical Engineering in July 2020 from the medical faculty of Basel University and AO research Institute, Davos in Switzerland. Since then, she has started her post-doctoral fellowship at University of Zürich and medicine campus Davos. The main focus of her research is to investigate the immunological function of subcutaneous adipose tissue in skin-based or systemic inflammation by using high-multiplex imaging mass cytometry technology.
   email: Reihane.Ziadlou@uzh.ch
-
+  number_educ: 0
+  
 - name: Danielle Fehr
   photo: Danielle.jpeg
   info: Dr. Reihane Ziadlou obtained her PhD degree in the field of Biomedical Engineering in July 2020 from the medical faculty of Basel University and AO research Institute, Davos in Switzerland. Since then, she has started her post-doctoral fellowship at University of Zürich and medicine campus Davos. The main focus of her research is to investigate the immunological function of subcutaneous adipose tissue in skin-based or systemic inflammation by using high-multiplex imaging mass cytometry technology.
   email: Danielle.Fehr@uzh.ch
-
+  number_educ: 0
+  
 - name: M.Milad Ameri
   photo: milad.jpg
   info: bioinformatician, started Apr 2021
   email: Mohammadmilad.ameri@uzh.ch
-
+  number_educ: 0
 
 - name: "This could be you !"
   photo: rock.jpg
