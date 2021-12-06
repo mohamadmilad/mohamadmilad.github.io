@@ -8,28 +8,34 @@
 #  education3:
 #  education4:
 
-- name: Lena Hirt
+- name: Meike Distler
   photo: rock.jpg
-  info: Master student
+  info: PostDocs 
   email:
   number_educ: 0
   education1:
-
-- name: Mirjam Meier
+  
+- name: Sabine Greschek
   photo: rock.jpg
-  info: Master student
+  info: Clinical study team
   email:
   number_educ: 0
   education1:
-
-- name: Marine Casanova
+  
+- name: Natalie Anasiewicz
   photo: rock.jpg
-  info: Master student
+  info: Clinical study team
   email:
   number_educ: 0
   education1:
-
-
+ 
+- name: Stephan Traidl
+  photo: rock.jpg
+  info: Visiting fellows
+  email:
+  number_educ: 0
+  education1:
+  
 - name: Danielle Fehr
   photo: rock.jpg
   info: MD candidates
@@ -78,31 +84,24 @@
   email:
   number_educ: 0
   education1:
-
-- name: Stephan Traidl
+ 
+- name: Lena Hirt
   photo: rock.jpg
-  info: Visiting fellows
-  email:
-  number_educ: 0
-  education1:
-  
-- name: Sabine Greschek
-  photo: rock.jpg
-  info: Clinical study team
-  email:
-  number_educ: 0
-  education1:
-  
-- name: Natalie Anasiewicz
-  photo: rock.jpg
-  info: Clinical study team
+  info: Master student
   email:
   number_educ: 0
   education1:
 
-- name: Meike Distler
+- name: Mirjam Meier
   photo: rock.jpg
-  info: PostDocs 
+  info: Master student
+  email:
+  number_educ: 0
+  education1:
+
+- name: Marine Casanova
+  photo: rock.jpg
+  info: Master student
   email:
   number_educ: 0
   education1:
