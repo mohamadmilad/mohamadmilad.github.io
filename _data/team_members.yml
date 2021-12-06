@@ -1,11 +1,9 @@
 - name: Marie-Charlotte Brüggen
   photo: charlotte.jpg
-  info: Prof. Brüggen is an Assistant Professor for Clinical Allergology of the University Zurich, sponsored by the Kühne Foundation / CK Care. After a PhD in immunology at the Medical University of Vienna and clinical residency in Dermatology and Allergology/Immunology at the University Hospitals in Vienna and Zurich, she now works as a physician scientist between the University Hospital and the Medical Campus and Hochgebirgsklinik Davos. Her overall interest is to enhance the pathomechanistic understanding and improve diagnostic procedures as well as therapeutic approaches of different allergic (dermatological) diseases, namely atopic dermatitis, severe drug hypersensitivity reactions and adipose tissue immunology.
   email: Marie-Charlotte.Brueggen@usz.ch
-  number_educ: 3
-  education1: Dermatology and Allergology Resident, Dpt. of Dermatology, USZ
-  education2: Postdoctoral Fellow (Dpt. Of Dermatology, USZ, Prof. Dr. Lars French)	Dermatology Resident
-  education3: PhD Student (DIAID, Dpt. Of Dermatology, Medical University of Vienna, Prof. Dr. Georg Stingl)
+  info: Prof. Brüggen is an Assistant Professor for Clinical Allergology of the University Zurich, sponsored by the Kühne Foundation / CK Care. After a PhD in immunology at the Medical University of Vienna and clinical residency in Dermatology and Allergology/Immunology at the University Hospitals in Vienna and Zurich, she now works as a physician scientist between the University Hospital and the Medical Campus and Hochgebirgsklinik Davos. Her overall interest is to enhance the pathomechanistic understanding and improve diagnostic procedures as well as therapeutic approaches of different allergic (dermatological) diseases, namely atopic dermatitis, severe drug hypersensitivity reactions and adipose tissue immunology.
+  number_educ: 0
+  education1:
   
 - name: Reihane Ziadlou
   photo: reihane.jpeg
