@@ -63,5 +63,4 @@ We are grateful for funding from ..., [xxx](www.nwo.nl) ([zzz](https://www.usz.c
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uzhlogo.jpg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uszlogo.jpg" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hgklogo.jpg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/siaflogo.jpg" style="width: 110px">
 </figure>
