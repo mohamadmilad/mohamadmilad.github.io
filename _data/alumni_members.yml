@@ -1,7 +1,7 @@
-- name: No one yet
-  photo: rock.jpg
-  duration: no duration
-  info: no info
-  number_educ: 1
-  education1: no education
+- name: No one yet :)
+  photo:
+  duration:
+  info:
+  number_educ: 0
+  education1:
 
