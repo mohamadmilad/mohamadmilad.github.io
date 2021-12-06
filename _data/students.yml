@@ -8,9 +8,74 @@
 #  education3:
 #  education4:
 
-- name: Maialen Larrazabal Ortego
+- name: Lena Hirt
   photo: rock.jpg
   info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  email:
   number_educ: 0
   education1:
+
+- name: Mirjam Meier
+  photo: rock.jpg
+  info: Master student
+  email:
+  number_educ: 0
+  education1:
+
+- name: Marine Casanova
+  photo: rock.jpg
+  info: Master student
+  email:
+  number_educ: 0
+  education1:
+
+
+- name: Danielle Fehr
+  photo: rock.jpg
+  info: MD candidates
+  email:
+  number_educ: 0
+  education1:
+
+- name: Veronika Schmidt
+  photo: rock.jpg
+  info: MD candidates
+  email:
+  number_educ: 0
+  education1:
+
+- name: Martin Ringel
+  photo: rock.jpg
+  info: MD candidates
+  email:
+  number_educ: 0
+  education1:
+
+- name: Nicola Herrmann
+  photo: rock.jpg
+  info: MD candidates
+  email:
+  number_educ: 0
+  education1:
+
+- name: Barbara Vieli
+  photo: rock.jpg
+  info: MD candidates
+  email:
+  number_educ: 0
+  education1:
+
+- name: Michaela Mokra
+  photo: rock.jpg
+  info: MD candidates
+  email:
+  number_educ: 0
+  education1:
+
+- name: Franziska Meyer
+  photo: rock.jpg
+  info: MD candidates
+  email:
+  number_educ: 0
+  education1:
+
