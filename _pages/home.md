@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [balbalbla](https://www.usz.ch/en/). Our aim is to explore and understand ......
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
