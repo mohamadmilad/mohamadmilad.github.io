@@ -23,13 +23,11 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-
-            <img id="myImg" src={{ member.education1 }} alt="Snow" style="width:100%;max-width:300px">
+    
+            <img id="myImg" src={{ member.photo }} alt="Snow" style="width:100%;max-width:300px">
             <div id="myModal" class="modal">
               <span class="close">&times;</span>
               <img class="modal-content" id="img01">
@@ -52,8 +50,8 @@ permalink: /team/
             }
             </script>
     
-    
-
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
