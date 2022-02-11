@@ -28,6 +28,32 @@ permalink: /team/
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
+
+            <img id="myImg" src={{ member.education1 }} alt="Snow" style="width:100%;max-width:300px">
+            <div id="myModal" class="modal">
+              <span class="close">&times;</span>
+              <img class="modal-content" id="img01">
+              <div id="caption"></div>
+            </div>
+
+            <script>
+            var modal = document.getElementById("myModal");
+            var img = document.getElementById("myImg");
+            var modalImg = document.getElementById("img01");
+            var captionText = document.getElementById("caption");
+            img.onclick = function(){
+              modal.style.display = "block";
+              modalImg.src = this.src;
+              captionText.innerHTML = this.alt;
+            }
+            var span = document.getElementsByClassName("close")[0];
+            span.onclick = function() { 
+              modal.style.display = "none";
+            }
+            </script>
+    
+    
+
   {% endif %}
 
   {% if member.number_educ == 2 %}
