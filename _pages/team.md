@@ -21,34 +21,10 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img id="myImg" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-
-    
-            <img id="myImg" src={{ member.photo }} alt="Snow" style="width:100%;max-width:300px">
-            <div id="myModal" class="modal">
-              <span class="close">&times;</span>
-              <img class="modal-content" id="img01">
-              <div id="caption"></div>
-            </div>
-
-            <script>
-            var modal = document.getElementById("myModal");
-            var img = document.getElementById("myImg");
-            var modalImg = document.getElementById("img01");
-            var captionText = document.getElementById("caption");
-            img.onclick = function(){
-              modal.style.display = "block";
-              modalImg.src = this.src;
-              captionText.innerHTML = this.alt;
-            }
-            var span = document.getElementsByClassName("close")[0];
-            span.onclick = function() { 
-              modal.style.display = "none";
-            }
-            </script>
     
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -188,3 +164,31 @@ permalink: /team/
 
 ## Administrative Support
 <a href="mailto:NNNN">administrativ person name</a> is helping us (and other groups) with administration.
+
+
+            <div id="myModal" class="modal">
+              <span class="close">&times;</span>
+              <img class="modal-content" id="img01">
+              <div id="caption"></div>
+            </div>
+{%
+            <script>
+            var modal = document.getElementById("myModal");
+            var img = document.getElementById("myImg");
+            var modalImg = document.getElementById("img01");
+            var captionText = document.getElementById("caption");
+            img.onclick = function(){
+              modal.style.display = "block";
+              modalImg.src = this.src;
+              captionText.innerHTML = this.alt;
+            }
+            var span = document.getElementsByClassName("close")[0];
+            span.onclick = function() { 
+              modal.style.display = "none";
+            }
+            </script>
+%}
+
+
+
+
