@@ -28,13 +28,6 @@
   email:
   number_educ: 0
   education1:
- 
-- name: Stephan Traidl
-  photo: rock.jpg
-  info: Visiting fellows
-  email:
-  number_educ: 0
-  education1:
   
 - name: Danielle Fehr
   photo: rock.jpg
@@ -86,13 +79,6 @@
   education1:
  
 - name: Lena Hirt
-  photo: rock.jpg
-  info: Master student
-  email:
-  number_educ: 0
-  education1:
-
-- name: Mirjam Meier
   photo: rock.jpg
   info: Master student
   email:
