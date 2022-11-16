@@ -161,12 +161,3 @@ permalink: /team/
 
 ## Administrative Support
 <a href="mailto:NNNN">administrativ person name</a> is helping us (and other groups) with administration.
-
-
-            <div id="myModal" class="modal">
-              <span class="close">&times;</span>
-              <img class="modal-content" id="img01">
-              <div id="caption"></div>
-            </div>
-
-
