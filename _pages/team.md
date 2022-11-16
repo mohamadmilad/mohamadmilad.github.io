@@ -54,7 +54,6 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
